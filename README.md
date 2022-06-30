@@ -1,4 +1,5 @@
 # Kodluyoruz Ilk Repo
+[Patika.dev profilim](https://app.patika.dev/mangelo) 
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
